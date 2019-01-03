@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RoulettePrototype",
+"dataUrl": "9148eaf5857150e1d39a20efb03d5f21.unityweb",
+"asmCodeUrl": "b41439302ede5260b1334bfaa12c2a2f.unityweb",
+"asmMemoryUrl": "755093de0b9dddd2ec5cb35de2c6c8f4.unityweb",
+"asmFrameworkUrl": "2bbc594888b9e47621e7ece6a96ee975.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
