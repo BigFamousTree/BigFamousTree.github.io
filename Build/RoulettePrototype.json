@@ -1,11 +1,11 @@
 {
-"companyName": "YggdrasilGaming",
+"companyName": "DefaultCompany",
 "productName": "RoulettePrototype",
 "dataUrl": "RoulettePrototype.data.unityweb",
 "asmCodeUrl": "RoulettePrototype.asm.code.unityweb",
 "asmMemoryUrl": "RoulettePrototype.asm.memory.unityweb",
 "asmFrameworkUrl": "RoulettePrototype.asm.framework.unityweb",
-"TOTAL_MEMORY": 134217728,
+"TOTAL_MEMORY": 83886080,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
